@@ -2,6 +2,8 @@
 
 > 🎓 Made during lab for **CS 172** at **Drexel University**
 
+**[▶️ Play it in your browser](https://wasif-ifti.github.io/Monster-Battle/)**
+
 A turn-based battle game in the terminal. You name your hero, then fight your way through a Goblin, a Troll, and a Dragon, each tougher than the last. Pick your moves carefully: potions are limited, and the Dragon hits hard.
 
 ## How to play
